@@ -51,7 +51,6 @@
 ;    licensing and training services.
 ;*/
 		.GLB	_vSoftwareInterruptISR
-                .GLB    _vSoftwareInterruptEntry
 
 		.SECTION   P,CODE
 		
